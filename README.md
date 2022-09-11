@@ -43,4 +43,4 @@ The emails dataset consists of 5728 data points, with each datapoint having 1 fe
 1.  `text`: text of the email
 
 **Target Variable**
-2. `spam`: (1) is a spam, (0) is not a spam
+2.  `spam`: (1) is a spam, (0) is not a spam
